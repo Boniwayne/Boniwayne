@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on any opensource projects.
 - 📫 How to reach me boniwayne125@gmail.com
 - I love mathematics, statistics and handling big data!
-- Thank you
+- Thank youn and happy coding
